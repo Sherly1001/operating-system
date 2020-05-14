@@ -1,0 +1,3 @@
+E:/os/w3/multiple_thread/b/CMakeFiles/ball_multiple_thread.dir
+E:/os/w3/multiple_thread/b/CMakeFiles/edit_cache.dir
+E:/os/w3/multiple_thread/b/CMakeFiles/rebuild_cache.dir

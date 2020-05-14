@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/os/w3/multiple_thread/thpool.c
+unistd.h
+-
+signal.h
+-
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+errno.h
+-
+time.h
+-
+sys/prctl.h
+-
+thpool.h
+E:/os/w3/multiple_thread/thpool.h
+
+E:/os/w3/multiple_thread/thpool.h
+

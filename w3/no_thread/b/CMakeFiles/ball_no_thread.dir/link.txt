@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\ball_no_thread.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\ball_no_thread.dir/objects.a @CMakeFiles\ball_no_thread.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -mwindows   -Wl,--whole-archive CMakeFiles\ball_no_thread.dir/objects.a -Wl,--no-whole-archive  -o ..\ball_no_thread.exe -Wl,--out-implib,..\libball_no_thread.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ball_no_thread.dir\linklibs.rsp
